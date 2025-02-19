@@ -2,7 +2,13 @@
 Exploratory Data Analysis
 
 ## Purpose
-This project involves creating and running an original EDA based on the skills learned in Module' 
+This project involves creating and running an original EDA based on the skills learned in Module.
+
+## Data 
+The dataset used for this project is statistics from the 2020 English Premier League seaon.
+
+https://github.com/jfrummel/datafun-06-eda/blob/main/dataset%20-%202020-09-24%20(1).csv
+
 
 ### Project Creation Process
 1. Create and clone repo from GitHub<br>
